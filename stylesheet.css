@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Black.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Black.woff') format('woff'),
+        url('RobertoSansNeue-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-BlackItalic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-BlackItalic.woff') format('woff'),
+        url('RobertoSansNeue-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Bold.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Bold.woff') format('woff'),
+        url('RobertoSansNeue-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-BoldItalic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-BoldItalic.woff') format('woff'),
+        url('RobertoSansNeue-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Italic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Italic.woff') format('woff'),
+        url('RobertoSansNeue-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Light.woff2') format('woff2'),
+        url(web/RobertoSansNeue-Light.woff') format('woff'),
+        url('RobertoSansNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-LightItalic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-LightItalic.woff') format('woff'),
+        url('RobertoSansNeue-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Medium.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Medium.woff') format('woff'),
+        url('RobertoSansNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Regular.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Regular.woff') format('woff'),
+        url('RobertoSansNeue-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-Thin.woff2') format('woff2'),
+        url('web/RobertoSansNeue-Thin.woff') format('woff'),
+        url('RobertoSansNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-ThinItalic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-ThinItalic.woff') format('woff'),
+        url('RobertoSansNeue-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roberto Sans Neue';
+    src: url('web/RobertoSansNeue-MediumItalic.woff2') format('woff2'),
+        url('web/RobertoSansNeue-MediumItalic.woff') format('woff'),
+        url('RobertoSansNeue-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
