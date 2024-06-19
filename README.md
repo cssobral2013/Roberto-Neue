@@ -1,3 +1,8 @@
-# RobertoSansNeue
+# Roberto Neue
 
-Roberto Sans Neue is developed from Roboto, especially its first beta of which would eventually become Roboto 2014. Changes include: true forms for italics, changed 'a' in romans, and more rounder forms.
+Roberto Sans Neue is developed from Roboto and GetGo Boto fonts.
+Main changes:
+
+ - Instanced width of 114;
+ - Flattened width of figures and punctuation;
+ - And others.
